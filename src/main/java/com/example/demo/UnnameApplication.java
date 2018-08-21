@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UnnameApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(UnnameApplication.class, args);
 	}
 }
